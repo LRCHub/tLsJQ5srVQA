@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "LOST IN PARADISE（feat. AKLO）",
+  "base_artist": "ALI",
+  "createdAt": "2026-02-14T23:50:46.630620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost In Paradise (feat. Aklo)",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/01_Lost_In_Paradise_(feat._Aklo)_ALI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOST IN PARADISE (feat. AKLO)",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/02_LOST_IN_PARADISE_(feat._AKLO)_ALI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost In Paradise Feat. Aklo",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/03_Lost_In_Paradise_Feat._Aklo_VA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ALI - LOST IN PARADISE feat. AKLO（Re-edit ver.）",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/04_ALI_-_LOST_IN_PARADISE_feat._AKLO(Re-edit_ver.)_ALI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOST IN PARADISE feat.AKLO",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/05_LOST_IN_PARADISE_feat.AKLO_ALI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "lost in paradise (feat. aklo)",
+      "artist": "ali",
+      "has_synced": true,
+      "path": "select/06_lost_in_paradise_(feat._aklo)_ali.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOST IN PARADISE (feat. AKLO)",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/07_LOST_IN_PARADISE_(feat._AKLO)_ALI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOST IN PARADISE (feat. AKLO)",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/08_LOST_IN_PARADISE_(feat._AKLO)_ALI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LOST IN PARADISE (feat. AKLO)",
+      "artist": "ALI feat. AKLO",
+      "has_synced": true,
+      "path": "select/09_LOST_IN_PARADISE_(feat._AKLO)_ALI_feat._AKLO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOST IN PARADISE (feat. BrokeN)",
+      "artist": "Kirara Magic Radio",
+      "has_synced": false,
+      "path": "select/10_LOST_IN_PARADISE_(feat._BrokeN)_Kirara_Magic_Radio.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lost In Paradise feat. BOO SEEKA",
+      "artist": "Forester",
+      "has_synced": true,
+      "path": "select/11_Lost_In_Paradise_feat._BOO_SEEKA_Forester.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Angel lost in Paradise (feat. Scarlet Dorn)",
+      "artist": "Nino de Angelo",
+      "has_synced": true,
+      "path": "select/12_Angel_lost_in_Paradise_(feat._Scarlet_Dorn)_Nino_de_Angelo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOST IN PARADISE (feat. AKLO)",
+      "artist": "ALI",
+      "has_synced": false,
+      "path": "select/pl_01_LOST_IN_PARADISE_(feat._AKLO)_ALI.txt"
+    }
+  ]
+}
